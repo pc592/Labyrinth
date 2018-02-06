@@ -1,0 +1,6 @@
+data/TFT_fonts.lib.i
+data/SPI_STMPE610.lib.i
+data/main.cpp.i
+data/MMA8451Q.lib.i
+data/mbed.bld.i
+data/SPI_TFT_ILI9341.lib.i
